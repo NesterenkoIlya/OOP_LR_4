@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OOP_LR_4.dir/main.cpp.o CMakeFiles/OOP_LR_4.dir/Classes/B.cpp.o CMakeFiles/OOP_LR_4.dir/Classes/D1.cpp.o CMakeFiles/OOP_LR_4.dir/Classes/D2.cpp.o CMakeFiles/OOP_LR_4.dir/Classes/D3.cpp.o CMakeFiles/OOP_LR_4.dir/Classes/D4.cpp.o  -o OOP_LR_4 
