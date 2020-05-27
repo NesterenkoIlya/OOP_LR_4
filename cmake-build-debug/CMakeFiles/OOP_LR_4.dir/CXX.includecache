@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/athet/CLionProjects/OOP_LR_4/Classes/B.h
+iostream
+-
+string
+-
+cmath
+-
+
+/home/athet/CLionProjects/OOP_LR_4/Classes/D1.cpp
+D1.h
+/home/athet/CLionProjects/OOP_LR_4/Classes/D1.h
+
+/home/athet/CLionProjects/OOP_LR_4/Classes/D1.h
+B.h
+/home/athet/CLionProjects/OOP_LR_4/Classes/B.h
+
+/home/athet/CLionProjects/OOP_LR_4/Classes/D2.cpp
+D2.h
+/home/athet/CLionProjects/OOP_LR_4/Classes/D2.h
+
+/home/athet/CLionProjects/OOP_LR_4/Classes/D2.h
+B.h
+/home/athet/CLionProjects/OOP_LR_4/Classes/B.h
+
